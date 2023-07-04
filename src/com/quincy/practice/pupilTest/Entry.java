@@ -39,7 +39,7 @@ public class Entry extends Application {
     private Label label_message;
     private Label label_quest;
     //界面常/变量结束
-    private final int QUEST_NUM=3;
+    private final int QUEST_NUM=10;
     public static int score;//记录用户得分的变量
     private int quest_num;//记录题号的变量
     private int chance;//记录剩余答题机会的变量
